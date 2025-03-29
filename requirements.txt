@@ -1,7 +1,6 @@
-Flask
+streamlit
 pandas
 scikit-learn
-pickle-mixin
 gunicorn
 numpy
 matplotlib
